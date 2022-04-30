@@ -1,0 +1,20 @@
+.bg-clr-dark {
+  background-color: #05445e;
+}
+
+.bg-clr-light {
+  background-color: #d4f1f4;
+}
+
+.bg-clr-btn {
+  background-color: #189ab4;
+}
+
+.img-container {
+  width: 100px;
+  height: 150px;
+}
+
+.card-text-custom {
+  font-size: 0.875rem;
+}
